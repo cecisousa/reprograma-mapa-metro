@@ -24,7 +24,7 @@ body{
 .conteudo{
     width: 50%;
     height: 100%;
-    background-color: #003c86;
+    background-color: #006d58;
     position: fixed;
     top: 0;
     left: 0;
@@ -104,8 +104,9 @@ body{
 }
 
 .estacao__barra{
-    background-color: #003c86;
+    background-color: #006d58;
     border-radius: 20px;
+    box-shadow: 2px 1px 8px #00000086;
     width: 30px;
     height: 100%;
     margin-left: 58px;
@@ -212,7 +213,7 @@ ul {
 
     hr {
         width: 100%;
-        border-color: #003c86;
+        border-color: #006d58;
         border-style: solid;
         border-width: 3px;
     }
@@ -252,7 +253,6 @@ ul {
 
         }
     }
-}
 
     @media (max-width: 620px){
         .conteudo__texto {
