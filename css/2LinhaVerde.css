@@ -106,6 +106,7 @@ body{
 .estacao__barra{
     background-color: #006d58;
     border-radius: 20px;
+    box-shadow: 2px 1px 8px #00000086;
     width: 30px;
     height: 100%;
     margin-left: 58px;
